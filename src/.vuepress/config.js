@@ -47,8 +47,8 @@ module.exports = {
             text: '算法',
             items: [
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
-              { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              //{ text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+              { text: 'js规范', link: '/zh/algorithm/Charpter5.md'},
+              { text: 'js算法', link: '/zh/algorithm/Charpter6.md'}
             ],
           },
           {
@@ -68,7 +68,7 @@ module.exports = {
             items: [
               { text: '面试必看', link: '/zh/interview/index.md'},
               { text: '阿里巴巴', link: '/zh/interview/ali.md'},
-              { text: '龙湖地产', link: '/zh/interview/longhu.md'}
+              //{ text: '龙湖地产', link: '/zh/interview/longhu.md'}
             ]
           },
           {
