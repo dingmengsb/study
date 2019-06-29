@@ -44,7 +44,7 @@ module.exports = {
             link: '/zh/standard/Start.md'
           },
           {
-            text: '算法',
+            text: '算法(基础)',
             items: [
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
               { text: 'js规范', link: '/zh/algorithm/Charpter5.md'},
